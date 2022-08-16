@@ -1,0 +1,240 @@
+body{
+    margin-left: 8em;
+    margin-right: 8em;
+    /* border: 3px solid black; */
+}
+.father{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.apple{
+     font-size: 3em;
+     padding: 10px;
+     display: block;
+     margin:0 ;
+}
+.one{
+    color: hsl(160, 90%, 49%);
+}
+.two{
+    color: hsl(160, 90%, 49%);
+}
+.three{
+    color: grey ;
+}
+.appl{
+    font-size: 1.5em;
+padding:-2em;
+display: block;
+margin-left: 7em;
+margin-right: -2em;
+margin-top: 1em;}
+    .four{
+        color: hsl(160, 90%, 49%);
+    }
+    .five{
+        color: grey ;
+    }
+    .six{
+        color: grey ;
+    }
+#force{
+    font-size: 3em;
+    text-align: center;
+    color: hsl(160, 90%, 49%);
+    
+}
+.bee{
+    text-align: center;margin: 2em;
+}
+.hey{
+    font-family: cursive;
+    font-size: 3em;
+    text-align: center; color: hsl(160, 90%, 49%); margin: 2em;
+}
+.kem{
+    font-size: 20px;
+    color: grey; 
+    text-align: left; margin: 1.5em;
+}
+.kom{
+    font-size: 20px;
+    color: grey; 
+    text-align: left;margin: 1.5em;
+}
+.mama{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+
+.co{
+     text-align: left;
+    font-size: 3em;
+   color: rgb(250, 248, 248);
+}
+.ro{
+    font-size: 1.5em;
+    color: rgb(240, 233, 233);text-align:left;
+}
+.ko{
+    font-size: 1.5em;
+    color: rgb(248, 245, 245);text-align:left;
+    margin-top: 3em;
+}
+.sum{
+    background-color: hsl(160, 90%, 49%);
+    display:inline block;
+    border-radius: 10px; margin: 1.5em;
+}
+.lol{
+    text-align: left;
+    font-size: 3em;
+   color: rgb(243, 231, 231);
+} 
+.lal{
+    font-size: 1.5em;
+    color: rgb(252, 247, 247);text-align:left;
+}
+.add{
+    background-color: rgb(56, 91, 248);
+    display:  inline block;
+    border-radius: 10px; margin: 1.5em;
+}
+.lab{
+    font-size: 1.5em;
+    color: rgb(240, 233, 233);text-align:left; 
+}
+.ja{
+    text-align: left;
+    font-size: 3em;
+   color: rgb(243, 231, 231);
+}
+.jo{
+    font-size: 1.5em;
+    color: rgb(252, 247, 247);text-align:left;
+}
+.jr{
+    font-size: 1.5em;
+    color: rgb(248, 245, 245);text-align:left;
+    
+    display: block;   
+}
+.tem{
+    background-color: black;
+    display:inline block;
+    border-radius: 10px; margin: 1.5em;
+}
+#nimota{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    justify-content: space-evenly;
+}
+#gogo{
+    margin: 0px; border:0px; padding:0px; text-decoration:underline; background-color:hsl(160, 90%, 49%); color: white;
+}
+
+
+
+ul > li > a > img { 
+    width: 115px;height: 100px; color:grey ; background-color: white; margin: 0px; border: 0px; padding: 0px; list-style-type: none;
+}
+.grate{
+    display: flex; flex-direction: row;flex-wrap: wrap; justify-content: space-between, space-between
+}
+.robo{
+    padding: 20px;  float: left; width: 25%;
+}
+
+ul{
+    list-style-type: none;
+}
+.egg{
+    font-family: Georgia, serif; letter-spacing: .9px; color:hsl(160, 90%, 49%) ; display: block; font-size: 1.5em;
+}
+
+.base{
+    color: grey; font-size: 15px; font-family: monospace; display: block;
+}
+.boy{
+    display:block;margin-right: 20px;padding-right: 20px;
+}
+.man{
+    font-family: Georgia, serif; letter-spacing: 10px; color:hsl(160, 90%, 49%) ; display: block; font-size: 1.5em; margin-top: 60px; background-color: white;padding-top: 1em;margin-top: 0px;border-top: 0px;margin-bottom: 0px;padding-left: 1em;
+
+}
+.niger{
+    color: grey; font-size: 20px; font-family: monospace; display: block;background-color: white;padding-top: 2em;border-top: 0px;margin-top: 0px;margin-bottom: o;padding-bottom: 1em; border-bottom: 0px; padding-left: 1em;
+}
+
+.nig{
+    color: hsl(160, 90%, 49%);width: 115px;height: 200px;display: block;background:rgb(191, 235, 236) ;
+}
+.oga{
+    background-color: rgb(191, 235, 236); float: left;width: 40%; height:400px ;  display: block; padding: 20px; margin: 20px;
+}
+.friend{
+    width: 17em; 
+}
+.friends{
+    width: 17em;
+}
+.glow{
+    width: 17em;  margin: 5px; padding: 5px;
+}
+.firstg{
+    display: block; padding: 5px; margin: 5px; float: left;
+}
+.jayjay{
+    display: block; padding: 5px; margin: 5px; float: left;
+}
+    .family{
+
+    background-color:rgb(191, 235, 236);
+    display: flex; flex-direction: row; justify-content: space-between; margin: 0px; padding: 3em;
+}
+.apple:hover{
+    background-color: darksalmon;
+    transition: 3s;
+}.kem:hover{
+    color: aqua;
+    transition: 1s;
+}
+.kom:hover{
+    color: aqua;
+    transition: 1s;}
+    .ko:hover{
+        color: blanchedalmond;transition: 2s;
+    }
+    .fast:hover{
+        color: blanchedalmond;transition: 2s;
+    }
+    .man:hover{
+        color: greenyellow;
+        border-radius: 20px solid red;transition: 1s;
+    }
+    .niger:hover{
+        color: greenyellow;
+        border-radius: 20px solid red;transition: 1s;}
+        .hey:hover{
+            color: magenta; border-radius: 15px;
+        }
+        .appl:hover{
+            
+                color: magenta; border-radius: 15px;
+        }
+        .lab:hover{
+            color: mediumblue;
+        }
+        .jo:hover{
+            
+                color: mediumblue;
+        }
+        .fast:hover{
+            
+                color: magenta;
+        }
